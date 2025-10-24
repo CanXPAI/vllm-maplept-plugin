@@ -1,8 +1,7 @@
 # MaplePT vLLM Plugin
 
 **Author:** [CanXP AI](https://canxp.ai)  
-**License:** MIT  
-**Repository:** [CanXPAI/vllm_maplept_plugin](https://github.com/CanXPAI/vllm_maplept_plugin)
+**License:** MIT
 
 ## Overview
 
