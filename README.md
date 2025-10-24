@@ -27,6 +27,6 @@ This plugin provides compatibility patches that allow vLLM to load, alias, and s
 Clone the repository:
 
 ```bash
-git clone https://github.com/CanXPAI/vllm_maplept_plugin.git
+git clone https://github.com/CanXPAI/vllm-maplept-plugin.git
 cd vllm_maplept_plugin
 
