@@ -1,4 +1,4 @@
-# 🍁 MaplePT vLLM Plugin
+# MaplePT vLLM Plugin
 
 **Author:** [CanXP AI](https://canxp.ai)  
 **License:** MIT  
